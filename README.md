@@ -1,3 +1,3 @@
 # Demo
 
-Rehearsal learning 
+Rehearsal learning!
